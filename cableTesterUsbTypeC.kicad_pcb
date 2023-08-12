@@ -1863,7 +1863,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d4f8f3d4-51a8-445c-9324-a87657e5df54)
     )
-    (fp_text user "D-" (at -1.7375 0 unlocked) (layer "F.SilkS")
+    (fp_text user "D+" (at -1.7375 0 unlocked) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)) (justify left))
       (tstamp a9f8db02-a074-42eb-8096-3107bd86823b)
     )
